@@ -1,4 +1,4 @@
-# CI-CD-Pipeline-using-GitHub-Actions by Rohit Kumar Gupta
+# CI-CD-Pipeline-using-GitHub-Actions by Harsh Bhardwaj
 
 Automate testing and deployment using GitHub Actions with trigger workflows on code pushes, run tests automatically, and deploy artifacts to your hosting environment.
 
